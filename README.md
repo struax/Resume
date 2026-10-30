@@ -1,7 +1,7 @@
 # Resume
 Three decades in cybersecurity have prepared me to succeed in virtually any role in the field.
 # Steven Truax
-
+[Download File] (https://github.com/struax/Resume/blob/main/Steven%20Truax%20resume_26a.pdf)
 ## Professional Summary
 
 I am a hardworking and experienced, security-minded employee who has worked in a variety of IT positions in multiple industries. I have spent the last 30 years in the computer industry and have learned how to excel in almost any computer-related field.
